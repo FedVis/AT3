@@ -1,0 +1,26 @@
+msn
+yahoo
+/mnt/c/surfer/Borsa/dati/al
+/mnt/c/surfer/Borsa/dati/mz
+/mnt/c/surfer/Borsa/dati/borse
+C:\SURFER\Borsa\DATI\al
+C:\SURFER\Borsa\DATI\Borse
+C:\SURFER\Borsa\DATI\mz
+/mnt/c/surfer/Borsa/dati/dati-pino/dati/futures
+/mnt/c/surfer/Borsa/dati/dati-pino/intraday/MetaStock Data/fib30
+/mnt/c/surfer/Borsa/dati/dati-pino/dati/index
+/mnt/c/surfer/Borsa/dati/dati-pino/intraday/MetaStock Data/mib30
+/mnt/c/surfer/Borsa/dati/dati-pino/xpo
+/mnt/c/surfer/Borsa/dati/dati-pino/prova_xpo/5min/
+C:\SURFER\Borsa\simulaz-max-min\sim-ts\matrice_2\dati_txt
+/mnt/c/surfer/Borsa/simulaz-max-min/sim-ts/matrice_2/dati_txt
+/mnt/sda6/surfer2/051116/min_1.db
+/mnt/sda6/surfer2/051116/min_5.db
+/mnt/sda6/surfer2/051116/min_daily.db
+/mnt/c/surfer/Borsa/simulaz-max-min/sim-ts/dati_txt
+/mnt/c/surfer/Borsa/portafoglio/spmib_port.db
+/mnt/c/surfer/Borsa/portafoglio/futures.db
+C:\surfer\Borsa\dati\t3\spmib_future.db
+C:\Users\federico\Documents\pc-vecchio\surfer2\051116\CAP.MImin_daily.db
+E:\utenti\federico\Documents\borsa\borsa\portafoglio\futures.db
+.\futures.db

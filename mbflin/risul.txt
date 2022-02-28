@@ -1,0 +1,24 @@
+inserisci un float
+0.01
+0.000000
+float letto da file: -0.000000  dopo: 4.060000
+float letto da file: -0.000000  dopo: 4.100000
+float letto da file: -0.000000  dopo: 4.000000
+float letto da file: -0.000000  dopo: 4.029000
+float letto da file: -0.000000  dopo: 159947.000000
+float letto da file: 0.000000  dopo: 170141183460469231731687303715884105728.000000
+float letto da file: -0.000000  dopo: 1030211.000000
+float letto da file: -0.000000  dopo: 4.050000
+float letto da file: -0.000000  dopo: 4.070000
+float letto da file: -0.000000  dopo: 3.960000
+float letto da file: -0.000000  dopo: 4.012000
+float letto da file: -0.000000  dopo: 335553.000000
+float letto da file: 0.000000  dopo: 170141183460469231731687303715884105728.000000
+float letto da file: -0.000000  dopo: 1030212.000000
+float letto da file: -0.000000  dopo: 3.980000
+float letto da file: -0.000000  dopo: 4.040000
+float letto da file: -0.000000  dopo: 3.910000
+float letto da file: -0.000000  dopo: 3.954000
+float letto da file: -0.000000  dopo: 304360.000000
+float letto da file: 0.000000  dopo: 170141183460469231731687303715884105728.000000
+[root@pca m2i]#

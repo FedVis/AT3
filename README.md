@@ -6,3 +6,5 @@ It was able to open historical quotes' datas from various sources such as txt fi
 It was also able to get real time quotes from a website that it's not working anymore.
 It uses many libraries, some of them I made by my self.
 
+If you want to try it try to execute it and install all missing packages, 
+then go to file-> apri db and insert "futures.db", double click on items on the right and choose the graph you want and press "ok"
